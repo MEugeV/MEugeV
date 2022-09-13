@@ -35,6 +35,26 @@ I´m an accountant and graduated in business administration venturing into the e
 | E-commerce Cake-Bases |                                                     Web page developed with a work team, that allows the trade of cake bases painted by an artist.                                                     | <a href="https://github.com/andrespjm/tyt-frontend" target="_blank" rel="noreferrer">Front-end</a> <a href="https://github.com/andrespjm/tyt-frontend" target="_blank" rel="noreferrer">Back-end</a> | <a href="https://github.com/andrespjm/tortas-y-torteras-backend" target="_blank" rel="noreferrer">Deploy cake-bases</a> |
 | Dog API               | Single-page application of dog breeds, which allows filtering, ordering and creation of new breeds, with the following technologies: JavaScript, HTML, CSS, react, Redux, Node, Sequelize, PostgreSQL. |                                                       <a href="https://github.com/MEugeV/PIDogs" target="_blank" rel="noreferrer">Proyect</a>                                                        |               <a href="https://pih-dogs.vercel.app/home" target="_blank" rel="noreferrer">Deploy dogs</a>               |
 
+### Cakes and Bases
+
+<div align="center">
+<img width="49%"  src="cblanding.PNG" alt="landing" />
+<img width="49%"  src="cbhome.PNG" alt="landing" />
+<img width="49%"  src="cbdetail.PNG" alt="landing" />
+<img width="49%"  src="shoop.PNG" alt="landing" />
+<img width="49%"  src="signin.PNG" alt="landing" />
+<img width="49%" src="admin.PNG" alt="landing" />
+</div><br/>
+
+### Dogs
+
+<div align="center">
+<img width="49%"  src="landing.PNG" alt="landing" />
+<img width="49%"  src="home.PNG" alt="landing" />
+<img width="49%"  src="detail.PNG" alt="landing" />
+<img width="49%" src="form.PNG" alt="landing" />
+</div>
+
 ## :telephone: How to contact me
 
 <br/>
