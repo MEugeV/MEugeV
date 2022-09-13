@@ -10,16 +10,16 @@ I´m an accountant and graduated in business administration venturing into the e
 ## :toolbox: :heavy_check_mark: Languajes and Tools:
 
 <p>
-  <code><img width="10%" height="50px" src="https://3con14.biz/js/_data/_config/js.png"></code>
+  <code><img height="50px" src="https://3con14.biz/js/_data/_config/js.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-    <code><img width="10%" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/ScrumLogo-293x300.png"></code>
+    <code><img height="50px" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/ScrumLogo-293x300.png"></code>
      <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
- <code><img width="10%" height="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"></code>
+ <code><img height="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"></code>
   <br />
 </p>
 
