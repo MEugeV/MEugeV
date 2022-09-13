@@ -7,7 +7,7 @@
 <br/>
 I´m an accountant and graduated in business administration venturing into the exciting world of programming as a FullStack Developer. I acquired knowledge in JavaScript, NodeJS, Express, PostgreSQL, Sequelize, React, Redux, HTML, CSS and Scrum.
 
-## :heavy_check_mark: Languajes and Tools:
+## :heavy_check_mark: Languajes and Tools
 
 <br/>
 
@@ -18,7 +18,6 @@ I´m an accountant and graduated in business administration venturing into the e
     <span width="75px">         </span>
     <span ><img width="75px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></span>
     <span ><img width="75px" src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/7e03f/express-routing-logo.webp"></span>    
-    <br />
     <span ><img width="75px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></span>
     <span ><img height="40px" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></span>
     <span ><img width="75px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></span>
