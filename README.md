@@ -1,10 +1,10 @@
 <div align="center">
 <img width="100%" height = "250px" src="front_img.jpg" alt="cover" />
 </div>
-
+<br/>
 <div size='20px'> Hi! :wave: My name is Maria Eugenia Vogt. 
 </div>
-
+<br/>
 I´m an accountant and graduate in business administration venturing into the exciting world of programming as a FullStack Developer. I acquired knowledge in JavaScript, NodeJS, Express, SQL, Sequelize, React, Redux, HTML, CSS and Scrum.
 
 ## :toolbox: :heavy_check_mark: Languajes and Tools:
