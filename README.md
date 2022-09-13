@@ -7,7 +7,7 @@
 <br/>
 I´m an accountant and graduated in business administration venturing into the exciting world of programming as a FullStack Developer. I acquired knowledge in JavaScript, NodeJS, Express, PostgreSQL, Sequelize, React, Redux, HTML, CSS and Scrum.
 
-## :toolbox: :heavy_check_mark: Languajes and Tools:
+## :heavy_check_mark: Languajes and Tools:
 
 <br/>
 
