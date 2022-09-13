@@ -2,8 +2,8 @@
 <img width="100%" height = "250px" src="front_img.jpg" alt="cover" />
 </div>
 <br/>
-<div size='20px'> Hi! :wave: My name is Maria Eugenia Vogt. 
-</div>
+<h3> Hi! :wave: My name is Maria Eugenia Vogt. 
+</h3>
 <br/>
 I´m an accountant and graduated in business administration venturing into the exciting world of programming as a FullStack Developer. I acquired knowledge in JavaScript, NodeJS, Express, PostgreSQL, Sequelize, React, Redux, HTML, CSS and Scrum.
 
