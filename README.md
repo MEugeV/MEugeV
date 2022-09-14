@@ -5,7 +5,8 @@
 <h3> Hi! :wave: My name is Maria Eugenia Vogt. 
 </h3>
 <br/>
-I´m an accountant and graduated in business administration venturing into the exciting world of programming as a FullStack Developer. I acquired knowledge in JavaScript, NodeJS, Express, PostgreSQL, Sequelize, React, Redux, HTML, CSS and Scrum.
+I´m an accountant and graduated in business administration venturing into the exciting world of programming as a FullStack Developer. I recently finished my Full Stack Web Developer studies at Henry, gaining knowledge and experience in JavaScript, NodeJS, Express, PostgreSQL, Sequelize, React, Redux, HTML, CSS and Scrum.
+I would like to be part of a team where I can continue training and growing in this career.
 
 ## :heavy_check_mark: Languajes and Tools
 
@@ -32,8 +33,10 @@ I´m an accountant and graduated in business administration venturing into the e
 
 | Project               |                                                                                              Description                                                                                               |                                                                                                       Repo                                                                                                        |                                                 Link                                                 |
 | --------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-| E-commerce Cake-Bases |                                                     Web page developed with a work team, that allows the trade of cake bases painted by an artist.                                                     | <a href="https://github.com/andrespjm/tyt-frontend" target="_blank" rel="noreferrer">Front-end</a> <a href="https://github.com/andrespjm/tortas-y-torteras-backend" target="_blank" rel="noreferrer">Back-end</a> | <a href="https://cakes-and-bases.vercel.app/" target="_blank" rel="noreferrer">Deploy cake-bases</a> |
+| E-commerce Cake-Bases |         Web page developed with a work team, that allows the trade of cake bases painted by an artist, carried out with the aim of integrating the technologies learned in the Henry bootcamp.         | <a href="https://github.com/andrespjm/tyt-frontend" target="_blank" rel="noreferrer">Front-end</a> <a href="https://github.com/andrespjm/tortas-y-torteras-backend" target="_blank" rel="noreferrer">Back-end</a> | <a href="https://cakes-and-bases.vercel.app/" target="_blank" rel="noreferrer">Deploy cake-bases</a> |
 | Dog API               | Single-page application of dog breeds, which allows filtering, ordering and creation of new breeds, with the following technologies: JavaScript, HTML, CSS, react, Redux, Node, Sequelize, PostgreSQL. |                                                              <a href="https://github.com/MEugeV/PIDogs" target="_blank" rel="noreferrer">Proyect</a>                                                              |        <a href="https://pih-dogs.vercel.app" target="_blank" rel="noreferrer">Deploy dogs</a>        |
+
+### Screen selections
 
 ### Cakes and Bases
 
@@ -59,6 +62,8 @@ I´m an accountant and graduated in business administration venturing into the e
 
 <br/>
 
-meugeniavogt@gmail.com<br />
-+54 9 3516252960<br />
-https://www.linkedin.com/in/mariaeugeniavogt/
+- e-mail: meugeniavogt@gmail.com<br />
+
+- cellphone: +54 9 3516252960<br />
+
+- linkedin: https://www.linkedin.com/in/mariaeugeniavogt/
