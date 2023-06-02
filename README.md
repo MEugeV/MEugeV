@@ -5,8 +5,6 @@
 <h3> Hi! :wave: My name is Maria Eugenia Vogt. 
 </h3>
 <br/>
-I´m an accountant and graduated in business administration venturing into the exciting world of programming as a FullStack Developer. I recently finished my Full Stack Web Developer studies at Henry, gaining knowledge and experience in JavaScript, NodeJS, Express, PostgreSQL, Sequelize, React, Redux, HTML, CSS and Scrum.
-I would like to be part of a team where I can continue training and growing in this career.
 
 ## :heavy_check_mark: Languajes and Tools
 
